@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "ogmeta",
+  "description": "Preview how your page will look like on different social platforms",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon-192.png"
+  },
+  "permissions": ["activeTab", "tabs", "storage", "scripting"],
+  "icons": {
+    "192": "icon-192.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["content.styles.css", "icon-192.png"],
+      "matches": []
+    }
+  ]
+}
