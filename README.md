@@ -8,7 +8,7 @@ https://chrome.google.com/webstore/detail/ogmeta/nlefkaegoaoffmnffehjmbgdknmegca
 
 ### Demo
 
-Insert gif or link to demo
+https://youtu.be/SBp3exFTaG0
 
 ### Run Locally
 
