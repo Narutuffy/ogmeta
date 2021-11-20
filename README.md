@@ -10,6 +10,9 @@ https://chrome.google.com/webstore/detail/ogmeta/nlefkaegoaoffmnffehjmbgdknmegca
 
 https://youtu.be/SBp3exFTaG0
 
+<img width="500" alt="Screenshot 1" src="https://user-images.githubusercontent.com/21315701/142712684-de1f34fe-cf6a-41ec-83e5-a33875ce1ec1.png">
+<img width="500" alt="Screenshot 2" src="https://user-images.githubusercontent.com/21315701/142712721-01476d68-45ef-4137-aa89-c3c2a4e27669.png">
+
 ### Run Locally
 
 Clone the project
